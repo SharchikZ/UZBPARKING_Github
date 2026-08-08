@@ -1,0 +1,406 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GlavniyTable_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 5b31939c09679ea4a878b89a84c6cb72, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13829632000
+    m_Localized: 'Official telegram channel: t.me/UZBPARKINGDEV'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112408358912
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175322918912
+    m_Localized: Game settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212669001728
+    m_Localized: Car settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264502210560
+    m_Localized: Language change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298576736256
+    m_Localized: Sound settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332697399296
+    m_Localized: Graphics settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370169311232
+    m_Localized: Back to the menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404327723008
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5259482066944
+    m_Localized: LOADING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5438683705344
+    m_Localized: 'Official telegram channel: t.me/UZBPARKINGDEV'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5504190345216
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7495188705280
+    m_Localized: Front Camber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7568521916416
+    m_Localized: Rear Camber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7610859220992
+    m_Localized: Front Offset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7676470718464
+    m_Localized: Rear Offset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7694434922496
+    m_Localized: Front Width
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7733437755392
+    m_Localized: Rear Width
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7759887036416
+    m_Localized: Front Size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7832666599424
+    m_Localized: Rear Size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7846776238080
+    m_Localized: Front Suspension
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7873301016576
+    m_Localized: Rear Suspension
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7892536094720
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7949977088000
+    m_Localized: Commercial plate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7975323267072
+    m_Localized: Personal plate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3835430081359872
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13782773488644096
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13782850592534528
+    m_Localized: BALANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13783231980597248
+    m_Localized: Not enough money!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13986854274560000
+    m_Localized: The order has been delivered!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987095069552640
+    m_Localized: The order is loaded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987301701939200
+    m_Localized: The order has been cancelled!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987548918411264
+    m_Localized: Statistics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987666354728960
+    m_Localized: 'Income:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987803839819776
+    m_Localized: 'Orders made:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987974417969152
+    m_Localized: 'Bonus for delivery:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13988139535134720
+    m_Localized: 'Pay:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13988351188103168
+    m_Localized: New order!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13988543840874496
+    m_Localized: Cancel order!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13988914382467072
+    m_Localized: Order Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13989084222418944
+    m_Localized: Accept order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14472272304631808
+    m_Localized: Buy license plate?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14472446733152256
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14472560004526080
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14473069054619648
+    m_Localized: Buy a body kit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14473262370091008
+    m_Localized: Buy headlights?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14473384269148160
+    m_Localized: Buy taillights?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14829117401690112
+    m_Localized: 'Price:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15183243046252544
+    m_Localized: Selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15184183677644800
+    m_Localized: Promocode has been activated!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15190690553098240
+    m_Localized: Promocode is not working!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15544678909702144
+    m_Localized: Camera Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15544778016911360
+    m_Localized: Camera Sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15544922821062656
+    m_Localized: Field Of View
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15558744025821184
+    m_Localized: "Welcome to \nUZB PARKING!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15559021558722560
+    m_Localized: Get yourself your first car!)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15559196192763904
+    m_Localized: Deliver orders in the night map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15559464808574976
+    m_Localized: Upgrade your car)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15559593254940672
+    m_Localized: Explore the big city and develop your car fleet!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15559795613331456
+    m_Localized: Have a nice game :)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15561891926470656
+    m_Localized: 'Choose your language:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15562064744378368
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15562454017732608
+    m_Localized: Thank you!)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15565604212666368
+    m_Localized: DAY MAP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15565811373535232
+    m_Localized: NIGHT MAP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17633661928042496
+    m_Localized: Camera Roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26294717881741312
+    m_Localized: 'You''ve been playing for 30 minutes now.
+
+      We recommend taking
+      a short break. :)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31153964020887552
+    m_Localized: Promocode activation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31154296859881472
+    m_Localized: Activate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33979406671114240
+    m_Localized: Click here to continue...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34442581803757568
+    m_Localized: CHOOSE MAP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40991715620777984
+    m_Localized: Anti Aliasing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40991687250505728
+    m_Localized: Post Processing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40991668950757376
+    m_Localized: Ultra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40991642417590272
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40991619541856256
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41675359842693120
+    m_Localized: BUY LIST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41699050295095296
+    m_Localized: REFLECTIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41701127662563328
+    m_Localized: BODY PAINT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41705201971720192
+    m_Localized: 'TOTAL :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42037885868666880
+    m_Localized: LICENSE PLATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42037868277755904
+    m_Localized: FACELIFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42037838137487360
+    m_Localized: REAR LIGHTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42037817698643968
+    m_Localized: FRONT LIGHTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42054810724167680
+    m_Localized: SUSPENSION SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42055917290614784
+    m_Localized: NUMBERS CHANGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44435274768281600
+    m_Localized: Tuning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44912686593437696
+    m_Localized: Car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44912866424221696
+    m_Localized: Money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44912945453297664
+    m_Localized: Day {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44913335397740544
+    m_Localized: Claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44913517547974656
+    m_Localized: Daily Rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44929600342421504
+    m_Localized: Claim Ready!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44929924142690304
+    m_Localized: 'Come after: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50958505901780992
+    m_Localized: Car is locked
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

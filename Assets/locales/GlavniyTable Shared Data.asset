@@ -1,0 +1,412 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GlavniyTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GlavniyTable
+  m_TableCollectionNameGuidString: 5b31939c09679ea4a878b89a84c6cb72
+  m_Entries:
+  - m_Id: 13829632000
+    m_Key: uzbelas.telegram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112408358912
+    m_Key: uzbelas.selectCar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175322918912
+    m_Key: uzbelas.SettingsMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212669001728
+    m_Key: uzbelas.CarSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264502210560
+    m_Key: uzbelas.LanguageSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298576736256
+    m_Key: uzbelas.SoundSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332697399296
+    m_Key: uzbeleas.QualitySettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370169311232
+    m_Key: uzbelas.MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404327723008
+    m_Key: uzbelas.Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5259482066944
+    m_Key: mainMenu.zagruzka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5438683705344
+    m_Key: tash.telegram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5504190345216
+    m_Key: tash.select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7495188705280
+    m_Key: tash.FRazval
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7568521916416
+    m_Key: tash.Rrazval
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7610859220992
+    m_Key: tash.FOFSET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7676470718464
+    m_Key: tash.ROFSET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7694434922496
+    m_Key: tash.FWIDTH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7733437755392
+    m_Key: tash.RWIDTH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7759887036416
+    m_Key: tash.FSIZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7832666599424
+    m_Key: tash.RSIZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7846776238080
+    m_Key: tash.FSUSP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7873301016576
+    m_Key: tash.RSUSP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7892536094720
+    m_Key: tash.quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7949977088000
+    m_Key: tash.Yuridik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7975323267072
+    m_Key: tash.Shaxsiy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3835430081359872
+    m_Key: cuee.ovoz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13782773488644096
+    m_Key: mainMenu.Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13782850592534528
+    m_Key: mainMenu.balans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13783231980597248
+    m_Key: forAll.NoMoney
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13986854274560000
+    m_Key: zakaz.Delivered
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987095069552640
+    m_Key: zakaz.Took
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987301701939200
+    m_Key: zakaz.Otmen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987548918411264
+    m_Key: zakaz.Stata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987666354728960
+    m_Key: zakaz.Doxod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987803839819776
+    m_Key: zakaz.Sdelano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13987974417969152
+    m_Key: zakaz.Bonus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13988139535134720
+    m_Key: zakaz.Zarplata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13988351188103168
+    m_Key: zakaz.New
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13988543840874496
+    m_Key: zakaz.Otmenit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13988914382467072
+    m_Key: Zakaz.Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13989084222418944
+    m_Key: zakaz.Accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14472272304631808
+    m_Key: tuning.NumbersBuy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14472446733152256
+    m_Key: tuning.Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14472560004526080
+    m_Key: tuning.No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14473069054619648
+    m_Key: tuning.Oblis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14473262370091008
+    m_Key: tuning.Flight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14473384269148160
+    m_Key: tuning.Blight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14829117401690112
+    m_Key: mainmenu.Narx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15183243046252544
+    m_Key: mainMenu.selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15184183677644800
+    m_Key: mainMenu.promo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15190690553098240
+    m_Key: menu.PromoNet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15544678909702144
+    m_Key: dron.CamerSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15544778016911360
+    m_Key: dron.CameraSensa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15544922821062656
+    m_Key: dron.FOV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15558744025821184
+    m_Key: tutor.1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15559021558722560
+    m_Key: tutor.2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15559196192763904
+    m_Key: tutor.3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15559464808574976
+    m_Key: tutor.4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15559593254940672
+    m_Key: tutro.5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15559795613331456
+    m_Key: tutor.f
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15561891926470656
+    m_Key: tutor.choose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15562064744378368
+    m_Key: tutor.go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15562454017732608
+    m_Key: tutor.Thanks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15565604212666368
+    m_Key: main.Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15565811373535232
+    m_Key: main.night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17633661928042496
+    m_Key: 'dron.ZROLL
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26294717881741312
+    m_Key: notif.30min
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31153964020887552
+    m_Key: menu.promoMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31154296859881472
+    m_Key: menu.promoactivate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33979406671114240
+    m_Key: load.Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34442581803757568
+    m_Key: main.MapChosing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40991619541856256
+    m_Key: settings.Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40991642417590272
+    m_Key: settings.med
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40991668950757376
+    m_Key: settings.ultra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40991687250505728
+    m_Key: settings.Post
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40991715620777984
+    m_Key: settings.AA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41675359842693120
+    m_Key: tuning.basket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41699050295095296
+    m_Key: tuning.ref
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41701127662563328
+    m_Key: tuning.paint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41705201971720192
+    m_Key: tuning.total
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42037817698643968
+    m_Key: 'tuning.frontlight
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42037838137487360
+    m_Key: tuning.backlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42037868277755904
+    m_Key: tuning.Oblisovka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42037885868666880
+    m_Key: tuning.Nomer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42054810724167680
+    m_Key: tuning.custom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42055917290614784
+    m_Key: tuning.NOMERAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44435274768281600
+    m_Key: main.tuning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44912686593437696
+    m_Key: daily.car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44912866424221696
+    m_Key: daily.money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44912945453297664
+    m_Key: daily.Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44913335397740544
+    m_Key: daily.Claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44913517547974656
+    m_Key: daily.daily
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44929600342421504
+    m_Key: daily.claimy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44929924142690304
+    m_Key: daily.Cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50958505901780992
+    m_Key: game.BlockCar
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1308276166150062361
+  references:
+    version: 2
+    RefIds:
+    - rid: 1308276166150062361
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1773251434275
