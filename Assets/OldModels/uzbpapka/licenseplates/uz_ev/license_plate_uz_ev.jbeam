@@ -1,0 +1,11 @@
+{
+  "uz_ev": {
+    "information": {
+      "authors": "VinsWie",
+      "name": "Uzbek EV License Plate (2021 - present)",
+      "value": 50
+    },
+    "slotType": "licenseplate_design_2_1",
+    "licenseplate_path": "vehicles/common/licenseplates/uz_ev/license_plate_default.json"
+  }
+}

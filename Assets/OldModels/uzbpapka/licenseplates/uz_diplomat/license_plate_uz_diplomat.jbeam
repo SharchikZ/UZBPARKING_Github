@@ -1,0 +1,11 @@
+{
+  "uz_diplomat": {
+    "information": {
+      "authors": "VinsWie",
+      "name": "Uzbek Diplomat License Plate (2008 - present)",
+      "value": 50
+    },
+    "slotType": "licenseplate_design_2_1",
+    "licenseplate_path": "vehicles/common/licenseplates/uz_diplomat/license_plate_default.json"
+  }
+}

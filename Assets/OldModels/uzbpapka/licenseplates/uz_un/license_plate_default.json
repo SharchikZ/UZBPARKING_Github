@@ -1,0 +1,79 @@
+{
+  "name": "uz_un",
+  "version": 2,
+  "data": {
+    "gen": {
+	"pattern": [ "UN.%d%d%d%d"],
+	"patternData": {"rrUZ":["10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "30"]}
+	},
+
+    "format": {
+      "30-15": { //US
+        "size": {
+          "x": 512,
+          "y": 256
+        },
+		
+		"text": {
+          "x": 0.5,
+          "y": 0.32,
+          "x2": 0.5,
+          "y2": 0.78,
+          "scale": 1.3,
+          "scale2": 1.3,
+          "color": "white",
+          "limit": 2,
+          "limit2": 5,
+      }, 
+        "generator": "vehicles/common/licenseplates/licenseplate.html",
+        "characterLayout": "vehicles/common/licenseplates/uz_un/platefontus.json",
+        "diffuse": {
+          "spriteImg": "vehicles/common/licenseplates/uz_un/platefont.png",
+          "backgroundImg": "vehicles/common/licenseplates/uz_un/us.png",
+          "fillStyle": "white"
+        },
+        "bump": {
+          "spriteImg": "vehicles/common/licenseplates/uz_un/platefont_n.png",
+          "backgroundImg": "vehicles/common/licenseplates/uz_un/us_n.png",
+          "fillStyle": "rgb(0,0,255)"
+        },
+        "specular": {
+          //"spriteImg": "vehicles/common/licenseplates/uz_un/platefont_s.png",
+          //"backgroundImg": "vehicles/common/licenseplates/uz_un/euro_s.png",
+          "fillStyle": "rgb(233,233,233)"
+        }
+      },
+	  
+      "52-11": { //EU
+        "size": {
+          "x": 1024,
+          "y": 196
+        },
+        "text": {
+          "x": 0.5,
+          "y": 0.45,
+          "scale": 1.75,
+          "color": "white",
+          "limit": 7
+        },
+        "generator": "vehicles/common/licenseplates/licenseplate.html",
+        "characterLayout": "vehicles/common/licenseplates/uz_un/platefont.json",
+        "diffuse": {
+          "spriteImg": "vehicles/common/licenseplates/uz_un/platefont.png",
+          "backgroundImg": "vehicles/common/licenseplates/uz_un/euro.png",
+          "fillStyle": "white"
+        },
+        "bump": {
+          "spriteImg": "vehicles/common/licenseplates/uz_un/platefont_n.png",
+          "backgroundImg": "vehicles/common/licenseplates/uz_un/euro_n.png",
+          "fillStyle": "white"
+        },
+        "specular": {
+          //"spriteImg": "vehicles/common/licenseplates/uz_un/platefont_s.png",
+          //"backgroundImg": "vehicles/common/licenseplates/uz_un/euro_s.png",
+          "fillStyle": "rgb(233,233,233)"
+        }
+      }
+    }
+  }
+}

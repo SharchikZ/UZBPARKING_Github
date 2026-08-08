@@ -1,0 +1,11 @@
+{
+  "uz_new": {
+    "information": {
+      "authors": "VinsWie",
+      "name": "Uzbek License Plate (2008 - present)",
+      "value": 50
+    },
+    "slotType": "licenseplate_design_2_1",
+    "licenseplate_path": "vehicles/common/licenseplates/uz_new/license_plate_default.json"
+  }
+}

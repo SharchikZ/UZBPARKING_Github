@@ -1,0 +1,11 @@
+{
+  "uz_tractor_ylw": {
+    "information": {
+      "authors": "VinsWie",
+      "name": "Uzbek Agricultural Vehicles License Plate (2015 - present) (Private)",
+      "value": 50
+    },
+    "slotType": "licenseplate_design_2_1",
+    "licenseplate_path": "vehicles/common/licenseplates/uz_tractor_ylw/license_plate_default.json"
+  }
+}

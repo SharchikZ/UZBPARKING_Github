@@ -1,0 +1,11 @@
+{
+  "uz_foreigncorp": {
+    "information": {
+      "authors": "VinsWie",
+      "name": "Uzbek Foreign Companies License Plate (2008 - present)",
+      "value": 50
+    },
+    "slotType": "licenseplate_design_2_1",
+    "licenseplate_path": "vehicles/common/licenseplates/uz_foreigncorp/license_plate_default.json"
+  }
+}

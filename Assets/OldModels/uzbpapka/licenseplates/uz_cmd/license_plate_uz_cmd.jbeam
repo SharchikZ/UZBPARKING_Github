@@ -1,0 +1,11 @@
+{
+  "uz_cmd": {
+    "information": {
+      "authors": "VinsWie",
+      "name": "Uzbek Head of Diplomatic Mission License Plate (2008 - present)",
+      "value": 50
+    },
+    "slotType": "licenseplate_design_2_1",
+    "licenseplate_path": "vehicles/common/licenseplates/uz_cmd/license_plate_default.json"
+  }
+}
